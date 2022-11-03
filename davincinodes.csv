@@ -1,0 +1,7 @@
+~id, ~event, ~type,~label,
+  # Add the value entries
+  "1","T","top","Failure of Da-vinci surgical robot",
+  "2","C","or","Surgeon Console failure",
+  "3","E","or","Endo-wrist instrument failure",
+  "4","V","or","Vision cart failure",
+  "5","R","or","Robotic arm failure",
