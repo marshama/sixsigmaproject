@@ -1,0 +1,11 @@
+id,event,type,label
+1,E,top,Endo-wrist instrument failure
+2,6,or,Software failure
+3,4,or,Faulty switch 
+4,7,or,Hardware failure
+5,1,or,Electronic communication error
+6,9,or,Connectivity issues
+7,1,and,Electronic communication error
+8,9,and,Connectivity issues
+9,6,or,Software failure
+10,8,or,Mechanical failure

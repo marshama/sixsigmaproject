@@ -1,0 +1,6 @@
+id,event,type,label
+1,C,top,Failure of Surgeon Console
+2,8,or,Mechanical failure
+3,5,or,Battery failure
+4,6,or,Software failure
+5,1,or,Electronic communication failure
