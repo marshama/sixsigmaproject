@@ -1,0 +1,10 @@
+Id,event,type,label
+1,R,top,Robotic arm failure
+2,6,or,Software failure
+3,7,or,Hardware failure
+4,1,or,Electronic communication error
+5,9,or,Connectivity issues
+6,2,or,Encoder error
+7,4,or,Faulty switch
+8,5,or,Battery failure
+9,8,or,Mechanical failure
