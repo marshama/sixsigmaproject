@@ -1,0 +1,8 @@
+id,event,type,label
+1,V,top,Failure of Vision Cart
+2,3,or,Illuminator related error
+3,6,or,Software failure
+4,1,or,Electronic communcation error
+5,5,or,Battery failure
+6,1,or,Electronic communcation error
+7,9,or,Connectivity errors
