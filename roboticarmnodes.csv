@@ -1,4 +1,4 @@
-Id,event,type,label
+id,event,type,label
 1,R,top,Robotic arm failure
 2,6,or,Software failure
 3,7,or,Hardware failure
